@@ -17,6 +17,7 @@ We created a small Altium script to solve a common PCB design annoyance: easily 
 2. Click the new button in the Altium menu bar. (See: ![Fillet Button Usage](https://github.com/user-attachments/assets/1c6f660d-c551-4058-b11d-9d5706fb1773)
 3. Enter the desired radius in millimeters.
 4. The script calculates the vector geometry, adds the perfect arc, and trims the original traces automatically.
+5. (new) script shows changes (round corner) and asks you to accept these changes (see: ![Preview Changes](https://github.com/user-attachments/assets/bb8a8d7c-665b-408d-be6b-5a5689fc167a)
 
 **Example Results**: These images show before and after examples of the script in action.
 
